@@ -1,5 +1,6 @@
+import { clean } from "./clean.ts";
 function main() {
-  console.log("meow");
+  clean();
 }
 
 main();
